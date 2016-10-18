@@ -1,0 +1,81 @@
+
+/************************ CLASSES **************************/
+
+.divide {
+	  background:  #fdc468;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 5px 5%;
+    box-shadow: 11px 21px 43px -10px rgba(0,0,0,0.75);
+}
+
+.wordpop {
+	font-size: 1.1em;
+	color: tomato;
+
+}
+
+
+/************************ HEADINGS **************************/
+
+h1 {
+font-family: 'Nixie One', "courier new", cursive;
+font-size: 2em;
+line-height: 1.2em;
+text-align: center;
+}
+
+h2 {
+	font-size: 1.2em;
+	font-family: 'Nixie One', "courier new", cursive;
+	text-align: center;
+	margin-top: -20px;
+}
+
+h3 {
+	margin-top: -2px;
+}
+
+
+/******************** BODY, IMAGES, LINKS *******************/
+
+body {
+font-family: 'Raleway', sans-serif;
+font-size: 1em;
+text-align: justify;
+line-height: 1.5em; 
+}
+
+img {
+	height: 30%;
+	width: 30%;
+	float: left;
+	border-radius: 50%;
+  box-shadow: 11px 21px 43px -10px rgba(0,0,0,0.75);
+  margin: 20px;
+}
+
+a {
+	text-decoration: none;
+	/*margin-right: 10px;*/
+}
+
+a:hover {
+	color: red;
+	font-weight: bolder;
+}
+
+li {
+	list-style-type: circle;
+}
+
+
+/************************ FOOTER **************************/
+
+footer {
+	/*width: 100%;*/
+	word-spacing: 20px;
+}
+
+
