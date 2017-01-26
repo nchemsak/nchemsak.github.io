@@ -281,6 +281,7 @@ header .header-content .header-content-inner p {
   display: block;
   max-width: 650px;
   margin: 0 auto;
+  border: 1px solid RGBA(68, 68, 68, 0.9);
 }
 
 .portfolio-box .portfolio-box-caption {
