@@ -374,7 +374,9 @@ header .header-content .header-content-inner p {
   color: white;
   /*background-color: #f2f2f2;*/
   border-color: #ededed;
-  background-color: RGBA(47, 50, 56, 1);
+  /*background-color: RGBA(47, 50, 56, 1);*/
+  background-color: RGBA(95, 186, 255, 0.7);
+
 }
 
 .btn-default:active,
@@ -431,7 +433,9 @@ fieldset[disabled] .btn-default.active {
   color: white;
   /*  background-color: #ee4b28;
   border-color: #ed431f;*/
-  background-color: grey;
+  /*background-color: grey;*/
+  background-color: RGBA(95, 186, 255, 0.9);
+
 }
 
 .btn-primary:active,
