@@ -74,7 +74,7 @@ section {
   padding: 100px 0;
 }
 
-section#services {
+section#technology {
   padding: 5px;
 }
 
@@ -517,6 +517,14 @@ svg {
   margin-bottom: 60px;
 }
 
+.fixit {
+  /* width: 50%;
+  height: 50%;*/
+  max-width: 100px;
+  max-height: 100px;
+  margin-bottom: 60px;
+}
+
 .row {
   /*margin-bottom: 50px;*/
 }
@@ -738,3 +746,5 @@ html {
   margin: 20px;
   margin-bottom: 10px;
 }
+
+
