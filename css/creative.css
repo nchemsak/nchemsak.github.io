@@ -752,4 +752,6 @@ html {
   margin-bottom: 10px;
 }
 
-
+.aboutFont {
+  line-height: 1.4;
+}
