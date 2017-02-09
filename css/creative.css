@@ -74,9 +74,13 @@ section {
   padding: 100px 0;
 }
 
-section#technology {
-  padding: 5px;
+#technology {
+  padding-top: 30px;
 }
+
+/*#contact {
+  padding-top: 30px;
+}*/
 
 aside {
   padding: 50px 0;
