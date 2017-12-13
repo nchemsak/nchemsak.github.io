@@ -207,6 +207,7 @@ header {
     background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
+    background-attachment: fixed;
 }
 
 header .header-content {
@@ -758,4 +759,10 @@ html {
 
 .aboutFont {
     line-height: 1.4;
+}
+
+.fa-chevron-down {
+    position: absolute;
+    top: 350px;
+    margin: 0 auto;
 }
