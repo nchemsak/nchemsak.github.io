@@ -33,6 +33,14 @@
     }
 }*/
 
+
+.soundcloud {
+        width: 500px;
+    display: block;
+    margin: 0 auto;
+    height: 336px;
+}
+
 html,
 body {
     height: 100%;
